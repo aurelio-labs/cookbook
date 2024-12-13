@@ -1,0 +1,13 @@
+[project]
+name = "example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.7"
+dependencies = [
+    "google-genai>=0.2.2",
+    "ipykernel>=6.29.5",
+    "langgraph>=0.2.59",
+    "librosa>=0.10.2.post1",
+    "pillow>=11.0.0",
+]
