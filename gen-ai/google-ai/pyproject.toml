@@ -8,6 +8,5 @@ dependencies = [
     "google-genai>=0.2.2",
     "ipykernel>=6.29.5",
     "langgraph>=0.2.59",
-    "librosa>=0.10.2.post1",
     "pillow>=11.0.0",
 ]
