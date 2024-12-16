@@ -8,5 +8,6 @@ dependencies = [
     "google-genai>=0.2.2",
     "ipykernel>=6.29.5",
     "langgraph>=0.2.59",
+    "matplotlib>=3.10.0",
     "pillow>=11.0.0",
 ]
