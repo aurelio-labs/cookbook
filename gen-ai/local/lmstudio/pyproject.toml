@@ -1,0 +1,13 @@
+[project]
+name = "local-lmstudio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-search-results>=2.4.2",
+    "graphai-lib>=0.0.5",
+    "ipykernel>=6.29.5",
+    "litellm>=1.63.14",
+    "serpapi>=0.1.5",
+]
