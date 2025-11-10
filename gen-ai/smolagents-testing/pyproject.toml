@@ -1,0 +1,10 @@
+[project]
+name = "smolagents-testing"
+version = "0.0.1"
+description = "a settup of dependencies that allow smolagents to run"
+readme = "README.md"
+requires-python = ">=3.12.7"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "smolagents[litellm]>=1.7.0",
+]
