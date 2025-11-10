@@ -1,0 +1,14 @@
+[project]
+name = "example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.7"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "langchain-openai>=0.2.14",
+    "langgraph>=0.2.61",
+    "openai>=1.59.6",
+    "typing-extensions>=4.12.2",
+    "yfinance>=0.2.51",
+]
